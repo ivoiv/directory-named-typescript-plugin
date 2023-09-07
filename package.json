@@ -1,6 +1,6 @@
 {
-  "name": "directory-named-typescript-plugin",
-  "version": "2.0.4",
+  "name": "ivoiv/directory-named-typescript-plugin",
+  "version": "5.0.0",
   "description": "This plugin allows using directory name module import.",
   "main": "dist/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/channel-io/directory-named-typescript-plugin.git"
+    "url": "git+https://github.com/ivoiv/directory-named-typescript-plugin/.git"
   },
   "author": "channel-io",
   "license": "MIT",
@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/channel-io/directory-named-typescript-plugin#readme",
   "devDependencies": {
-    "ts-expose-internals": "^4.9.4",
-    "typescript": "^4.9.4"
+    "ts-expose-internals": "^5.0.0",
+    "typescript": "^5.0.0"
   },
   "peerDependencies": {
-    "ts-patch": "^2.1.0"
+    "ts-patch": "^3.0.0"
   }
 }
